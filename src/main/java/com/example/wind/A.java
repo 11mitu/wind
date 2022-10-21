@@ -8,5 +8,6 @@ public class A {
         System.out.println("second 第二次");
         System.out.println("third 第三次");
         System.out.println("hello git4");
+        System.out.println("master test");
     }
 }
